@@ -1,0 +1,1 @@
+aqui é uma página de javascript
